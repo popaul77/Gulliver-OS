@@ -1,0 +1,49 @@
+#Image
+eog eog-plugins
+shotwell
+gthumb
+
+#son
+clementine vlc
+gnome-sound-recorder asunder
+audacity audacity-data
+lame
+
+#video
+obs-studio
+kdenlive
+cheese
+
+#graphisme
+imagemagick
+freecad cura
+gimp gimp-data gimp-data-extras
+inkscape
+photocollage
+sweethome3d
+sweethome3d-furniture
+sweethome3d-furniture-nonfree
+
+#bureautique
+evince
+abiword gnumeric gnumeric-plugins-extra
+gnome-contacts gnome-calendar gnome-calculator
+pluma 
+scribus
+flameshot
+
+#scaner
+simple-scan
+yagf
+xsane
+
+
+#Imprimantes
+cups
+hpijs-ppds hplip
+
+#internet
+thunderbird-l10n-fr
+firefox-esr-l10n-fr
+filezilla
+transmission-gtk transmission-remote-gtk

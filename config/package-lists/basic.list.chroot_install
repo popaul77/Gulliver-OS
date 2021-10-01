@@ -1,0 +1,31 @@
+cinnamon-core
+openvpn
+network-manager-openvpn
+terminator
+
+
+#firmware
+firmware-b43-installer firmware-b43legacy-installer b43-fwcutter
+firmware-linux firmware-linux-free firmware-linux-nonfree
+alsa-firmware-loaders intel-microcode iucode-tool amd64-microcode
+firmware-amd-graphics firmware-misc-nonfree
+
+#utilitaires disque
+gparted testdisk
+
+#systeme
+lshw-gtk neofetch hardinfo
+sudo lsb-release pm-utils
+gvfs gvfs-bin gvfs-fuse gvfs-backends
+dbus dbus-x11
+cifs-utils sshfs rsync htop memtester
+xorriso eject openjdk-11-jre
+
+# fichiers
+file-roller unrar dtrx p7zip-full bzip2 lzma zip
+pluma
+
+
+# paquets
+gdebi flatpak
+gnome-software-plugin-flatpak

@@ -1,0 +1,17 @@
+#!/bin/sh
+
+set -e
+
+lb config noauto \
+    --architectures amd64 \
+    --linux-packages "linux-image" \
+    --distribution=bullseye \
+    --image-name gulliver-OS \
+    --apt-recommends true \
+    --archive-areas main,contrib,non-free \
+    --debian-installer "live" \
+    --firmware-binary "true" \
+    --firmware-chroot "true" \
+    --memtest "memtest86+" \
+    --bootappend-live "boot=live lang=fr_FR.UTF-8 locales=fr_FR.UTF-8 keyboard-layouts=fr keyboard-model=pc105 timezone=Europe/Paris utc=yes swap=true" \
+	"${@}"

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Nautilus.desktop" score="92" last-seen="1632907370"/>
+    <application id="org.gnome.Extensions.desktop" score="8" last-seen="1632907361"/>
+    <application id="gnome-display-panel.desktop" score="0" last-seen="0"/>
+    <application id="firefox-esr.desktop" score="22" last-seen="1632905206"/>
+    <application id="org.gnome.Software.desktop" score="39" last-seen="1632907330"/>
+    <application id="org.gnome.gedit.desktop" score="3" last-seen="1632906560"/>
+    <application id="terminator.desktop" score="28" last-seen="1632907154"/>
+    <application id="gnome-control-center.desktop" score="5" last-seen="1632907219"/>
+  </context>
+</application-state>

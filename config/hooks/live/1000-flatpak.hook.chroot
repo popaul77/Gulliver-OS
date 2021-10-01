@@ -1,0 +1,8 @@
+#!/bin/sh
+
+set -e
+
+# Installe les dépots de flathub
+
+
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo

@@ -1,0 +1,13 @@
+#!/bin/sh
+
+set -e
+
+# Install quelques flatpak
+
+flatpak update
+
+#flatpak install -y flathub com.bitwarden.desktop
+#flatpak install -y flathub com.neatdecisions.Detwinner
+#flatpak install -y flathub net.cozic.joplin_desktop
+flatpak install -y flathub org.jitsi.jitsi-meet
+flatpak install -y flathub org.x.Warpinator
