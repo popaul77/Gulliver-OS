@@ -34,7 +34,7 @@ flameshot
 
 #scaner
 simple-scan
-yagf
+yagf cuneiform tesseract-ocr-fra
 xsane
 
 
