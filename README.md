@@ -16,6 +16,6 @@ Rien de spécial pour l'instant ceci est en cour de création.
 
 6-Aller boire un café il y en a pour plusieurs minutes.
 
-Pour tester le live ainsi créé utiliser qemu-kvm ou virtualbox.
+Pour tester le live ainsi créé utiliser qemu / kvm, gnome-boxes ou virtualbox.
 
 jp
