@@ -1,6 +1,6 @@
 # Gulliver-OS
 
-Distribution de la team Gulliver77 construite sur une base de Debian bullseye a l'aide de live-buil.
+Distribution de la team Gulliver77 construite sur une base de Debian bullseye a l'aide de live-build.
 
 Rien de spécial pour l'instant ceci est en cour de création.
 
@@ -16,6 +16,6 @@ Rien de spécial pour l'instant ceci est en cour de création.
 
 6-Aller boire un café il y en a pour plusieurs minutes.
 
-Pour tester le live ainsi créé utiliser qemu / kvm, gnome-boxes ou virtualbox.
+Pour tester le live ainsi créé, utiliser qemu / kvm, gnome-boxes ou virtualbox.
 
 jp
